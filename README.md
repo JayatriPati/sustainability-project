@@ -347,7 +347,11 @@ This project demonstrates advanced SQL for data cleaning, EDA, and sustainabilit
 ## Author
 
 **Jayatri Pati**  
+
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Email: jayatripati02@gmail.com
+
 
 
 
