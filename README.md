@@ -329,10 +329,12 @@ from avg_emissions
 order by contribution asc;
 ```
 ## Findings
+  
+-**Sustainability Choices** — Australia, Canada, and Russia made sustainable choices for 18 years each between 2000 and 2024, the highest among all countries. During the COVID-19 lockdown (2020–2022), Canada and India led with 3 sustainable years each. On average, 6 countries per year made sustainable choices from 2000 to 2024, while this average rose to 7 during the lockdown period.
 
-- **Australia, Canada, and Russia** made sustainable choices for 18 years each during 2000–2024, the highest among all countries. During the COVID-19 lockdown (2020–2022), **Canada** and **India** led with 3 sustainable years each.
-- **China** achieved sustainability goals (increased per capita energy use and decreased emissions) in 9 out of 25 years between 2000 and 2024, the highest among all countries. During the COVID period (2020–2022), 7 out of 10 countries achieved the goal for at least 1 of the 3 years.
-- From 2000–2024, **Russia** contributed the lowest share of total emissions (9.5%) while the **USA** contributed the highest (10.42%). During COVID, **Japan** had the lowest contribution (7.15%) and the **USA** the highest (11.78%).
+-**Sustainability Goals** — China achieved sustainability goals by increasing per capita energy use and decreasing emissions in 9 out of 25 years between 2000 and 2024, the highest among all countries. During the COVID period, 7 out of 10 countries achieved the goal for 1 year of the 3 years. On average, 3 countries per year met sustainability goals from 2000 to 2024.
+
+-**Carbon Emissions** — From 2000 to 2024, Russia contributed the lowest share of total emissions at 9.5%, while the USA contributed the highest at 10.42%. During the COVID lockdown, Japan had the lowest contribution at 7.15% and the USA the highest at 11.78%. The average annual carbon emissions were 101,445.92 million tons from 2000 to 2024, compared to 106,052.46 million tons during the lockdown, reflecting a 4.5% increase in carbon emission during COVID.
 
 ## Conclusion
 
